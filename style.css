@@ -2,6 +2,18 @@ ul {
   list-style-type: none;
   overflow: hidden;
 }
+.leftfooter {
+  display: flex;
+  justify-self: start;
+  padding-left: 20px;
+  align-items: center;
+}
+.rightfooter {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  align-items: center;
+}
 li {
   float: right;
 }
