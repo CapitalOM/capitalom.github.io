@@ -96,8 +96,8 @@ li a:hover {
   border: 1px solid #4885ed;
   padding: 9px 19px;
 }
-footer {
-  color: #f2f2f2;
+.footer {
+  color: #f2f2f25d;
   position: fixed;
   bottom: 0;
   width: 100vw;
