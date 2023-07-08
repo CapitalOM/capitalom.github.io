@@ -1,0 +1,45 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+  }
+  
+  #search-container {
+    margin: 150px auto;
+    text-align: center;
+  }
+  
+  #logo {
+    height: 92px;
+    width: 272px;
+  }
+  
+  #search-form {
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    width: 500px;
+    height: 30px;
+    font-size: 18px;
+    padding: 5px;
+  }
+  
+  #buttons {
+    margin-top: 20px;
+  }
+  
+  #search-btn,
+  #lucky-btn {
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    color: #333;
+    font-size: 14px;
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  
+  #search-btn:hover,
+  #lucky-btn:hover {
+    background-color: #e6e6e6;
+    cursor: pointer;
+  }
